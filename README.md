@@ -1,24 +1,14 @@
-# order-summary-component
+# Order Summary (Music Subscription) - Written in Vue.js and Bootstrap
 
-## Project setup
-```
-npm install
-```
+## Preview
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Alt Text](https://github.com/johnnyperdomo/order-summary-component-vue/blob/main/src/assets/order-summary.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+**Built with**
+- Vue.js 2
+- Bootstrap
 
-### Lints and fixes files
+## Installation
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  npm run serve
+  ```
